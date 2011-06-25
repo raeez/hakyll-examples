@@ -1,0 +1,8 @@
+# object code
+*.o
+*.hi
+**/*main
+
+# static sites
+**/*_cache
+**/*_site
